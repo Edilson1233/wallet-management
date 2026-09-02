@@ -1,5 +1,5 @@
 
-// isto é substituído por uma chamada de API que devolve o mesmo formato.
+// Futuramente a API vai fornecer os dados, construindo ainda em java com Sprinh
 export const frequentContacts = [
   {
     id: "c1",

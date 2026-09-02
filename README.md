@@ -17,7 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 /signup
 /login
-/pin              (opcional, acedida a partir de definições, não do fluxo principal)
+/pin              (opcional, acedida a partir de definições, não do fluxo principal - caso futuro)
 /home
 /activity
 /transfer                    → Transfer Option (Bank Transfer / E-Wallet)
