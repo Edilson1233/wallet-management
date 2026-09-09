@@ -74,7 +74,7 @@ export default function HomeScreen() {
 
                 <div>
                     <Card title="Serviços">
-                        <div className="grid grid-cols-4 gap-4 mb-2">
+                        <div className="grid grid-cols-4 gap-4 mb-3">
 
                         {services.map((item, index) => (
                             <ServicesItem
@@ -83,6 +83,7 @@ export default function HomeScreen() {
                                 icon={item.icon}
                                 color={item.color}
                             />
+                            
                         )
                         )}
                         </div>
