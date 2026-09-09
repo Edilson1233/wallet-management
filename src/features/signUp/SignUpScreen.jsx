@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import AuthLayout from "../../components/ui/AuthLayout";
 import Input from "../../components/ui/Input";
